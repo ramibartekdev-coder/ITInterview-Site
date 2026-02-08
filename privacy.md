@@ -2,56 +2,45 @@
 
 **Last updated:** February 8, 2026
 
-**Rami Matouk & Bartosz Dybski** ("we," "our," or "us") are committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by the **IT Interview** mobile application ("App").
+**Rami Matouk & Bartosz Dybski** ("we," "our," or "us") are committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed by the **IT Interview** mobile application ("App").
 
-By accessing or using our Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy and our Terms of Use.
+**Data Controller:** The controllers of your data are Rami Matouk & Bartosz Dybski, based in Poland.
 
 ## 1. Information We Collect
 
 ### A. Information You Provide to Us
-While using our App, especially when subscribing to Premium features, we may ask you to provide us with certain personally identifiable information:
-* **Account Information:** When you log in using Google (via GCP OAuth), we collect your email address and authentication tokens to create and manage your user account via **Supabase**.
-* **Usage Data:** We collect information on how you interact with the App (e.g., quizzes taken, progress tracked).
+* **Account Data:** When you sign in via Google (GCP OAuth), we process your **email address** and authentication tokens solely to create and manage your user account via **Supabase**. This allows you to save your progress and verify your subscription status.
 
 ### B. Information Collected Automatically
-When you use the App, we (and our third-party service providers) automatically collect certain information:
-* **Device Information:** Device model, operating system, unique device identifiers.
-* **Analytics Data:** We use **PostHog** to analyze how users interact with our App to improve functionality and user experience.
+* **Usage & Analytics:** We use **PostHog** to collect anonymous usage data (e.g., screens visited, session duration) to improve the App.
+* **Device Data:** Device model, Android version, and general location (country/region) derived from IP address.
 
-## 2. Third-Party Services
+## 2. Third-Party Service Providers
 
-We utilize the following third-party services to operate the App. These services may collect and process your data according to their own privacy policies:
-
-* **RevenueCat:** Used to manage subscriptions and purchase history.
-    * [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
-* **Supabase:** Used for user authentication and database management.
-    * [Supabase Privacy Policy](https://supabase.com/privacy)
-* **PostHog:** Used for product analytics and feature usage tracking.
-    * [PostHog Privacy Policy](https://posthog.com/privacy)
-* **Google Cloud Platform (GCP) & OAuth:** Used to facilitate secure sign-in via your Google account.
-    * [Google Privacy Policy](https://policies.google.com/privacy)
+We use trusted third-party services to operate the App. These partners may process data on our behalf:
+* **RevenueCat:** For subscription management and purchase history verification. [Privacy Policy](https://www.revenuecat.com/privacy)
+* **Supabase:** For secure authentication and database management. [Privacy Policy](https://supabase.com/privacy)
+* **PostHog:** For product analytics. [Privacy Policy](https://posthog.com/privacy)
+* **Google Cloud Platform (OAuth):** For secure sign-in. [Privacy Policy](https://policies.google.com/privacy)
 
 ## 3. How We Use Your Information
 
-We use the collected information for the following purposes:
-* To provide and maintain the App (managing your login session via Supabase).
-* To process payments and manage subscriptions (via RevenueCat).
-* To analyze usage patterns and improve the App (via PostHog).
-* To provide customer support.
+We process your data for the following purposes:
+1.  **Service Provision:** To allow you to log in and save your interview progress.
+2.  **Payments:** To verify your Premium subscription status via Google Play.
+3.  **Analytics:** To understand how users use the App and fix bugs.
 
-## 4. Data Retention
+## 4. GDPR Rights (EU Users)
 
-We retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our legal agreements and policies.
+Under the GDPR, you have the right to access, correct, delete, or restrict processing of your personal data. To exercise these rights, please contact us at: **ramibartekdev@gmail.com**.
 
-## 5. Security
+## 5. Data Deletion
 
-The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+According to Google Play policies, you have the right to request the deletion of your account and associated data. To do so:
+1.  Use the "Delete Account" option within the App settings (if available), OR
+2.  Email us at **ramibartekdev@gmail.com** with the subject "Delete My Account". We will process your request within 30 days.
 
-## 6. Children's Privacy
+## 6. Contact Us
 
-Our App is intended for a general audience. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us.
-
-## 7. Contact Us
-
-If you have any questions about this Privacy Policy, please contact us:
-* By email: **ramibartekdev@gmail.com**
+If you have any questions about this Privacy Policy, please contact us at:
+* Email: **ramibartekdev@gmail.com**
