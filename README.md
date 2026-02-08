@@ -5,7 +5,7 @@ Here you will find all necessary legal information and terms of use.
 
 ### Legal Documents:
 
-* [Privacy Policy](./privacy)
-* [Terms & Conditions](./terms)
+* [Privacy Policy](./privacy.md)
+* [Terms & Conditions](terms.md)
 
 ---
