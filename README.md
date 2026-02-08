@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welcome to IT Interview 👋
 
 This is the official documentation site for the **IT Interview** mobile application.
